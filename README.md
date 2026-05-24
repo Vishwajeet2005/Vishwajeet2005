@@ -303,10 +303,6 @@ An AI-powered research assistant bot. Automates multi-source research, synthesiz
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishwajeet2005&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwajeet2005&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwajeet2005&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" />
