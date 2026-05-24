@@ -38,12 +38,11 @@
 ```yaml
 name:        Vishwajeet Vikram Borade
 location:    India 🇮🇳
-focus:       Full-Stack · AI/ML · Game Backend · Fintech
+focus:       Full-Stack · AI/ML · Game Backend · AI-Integrated Games · Animation
 currently:   Building Nexus (AI Game Backend Platform)
              + Echoes of Truth (AI Interrogation Game)
-target:      YC Startup School
-philosophy:  "Build things you actually want to use."
-learning:    FastAPI internals · Multiplayer architecture · AI NPC systems
+philosophy:  "Building things that I actually like and want to use."
+learning:    FastAPI internals · Multiplayer architecture · AI NPC systems · Animation
 ```
 
 I'm a self-taught developer who learns by shipping. I don't do tutorial projects — every repo here was built for a real purpose: a hackathon submission, a live product, or a problem I personally wanted solved. My work spans fintech, game infrastructure, cybersecurity, and AI — tied together by one thread: I build full systems, not just frontends.
@@ -329,7 +328,6 @@ An AI-powered research assistant bot. Automates multi-source research, synthesiz
 
 - [ ] Ship **Nexus** v1 — AI game backend platform (Python/FastAPI)
 - [ ] Launch **Echoes of Truth** — AI interrogation game on Nexus
-- [ ] Apply to **YC Startup School**
 - [ ] Open-source a Nexus SDK module
 - [ ] Hit 100 commits in 2026
 
