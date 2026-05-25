@@ -325,7 +325,7 @@ An AI-powered research assistant bot. Automates multi-source research, synthesiz
 - [ ] Ship **Nexus** v1 — AI game backend platform (Python/FastAPI)
 - [ ] Launch **Echoes of Truth** — AI interrogation game on Nexus
 - [ ] Open-source a Nexus SDK module
-- [ ] Hit 100 commits in 2026
+- [ ] Hit 1000 commits in 2026
 
 ---
 
