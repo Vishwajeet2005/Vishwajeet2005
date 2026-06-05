@@ -245,6 +245,7 @@ Enterprise-grade inventory system for SMEs — product catalogue, sales orders, 
 <br/>
 
 [![Repo](https://img.shields.io/badge/GitHub-Axiom--research--bot-181717?style=flat-square&logo=github)](https://github.com/Vishwajeet2005/Axiom-research-bot)
+[![Live](https://img.shields.io/badge/Live%20App-%E2%86%97-00C853?style=flat-square)](https://axiom-buddy.netlify.app/)
 
 An AI-powered research assistant bot. Automates multi-source research, synthesizes findings, and delivers structured summaries.
 
