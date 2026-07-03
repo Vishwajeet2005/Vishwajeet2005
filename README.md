@@ -128,7 +128,7 @@ Industry-grade anti-cheat infrastructure designed for high-concurrency Unreal En
 <summary><b>📈 AlphaScope — NSE Stock Intelligence Terminal</b></summary>
 <br/>
 
-> **Dual-Signal Alpha Detection · Live NSE Prices · AI-Powered Briefs · Built for ET AI Hackathon 2026**
+> **Dual-Signal Alpha Detection · Live NSE Prices · AI-Powered Briefs **
 
 [![Live](https://img.shields.io/badge/Live%20App-%E2%86%97-00C853?style=flat-square)](https://alphascope.netlify.app/)
 [![Repo](https://img.shields.io/badge/GitHub-AlphaScope-181717?style=flat-square&logo=github)](https://github.com/Vishwajeet2005/AlphaScope)
