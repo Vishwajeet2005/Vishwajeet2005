@@ -346,6 +346,6 @@ An AI-powered research assistant bot. Automates multi-source research, synthesiz
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer" />
 
-<sub>Built with ❤️ from India · Last updated May 2026</sub>
+<sub>Built with ❤️ from India by Vishwajeet · Last updated May 2026</sub>
 
 </div>
