@@ -138,20 +138,6 @@ I am a Full-Stack Software Engineer and AI Architect focused on building highly 
 
 <br/><br/>
 
-<h2 align="center">📫 Professional Networking</h2>
-
-<div align="center">
-
-<!-- Swap the # placeholders below for your real profile links -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter_/_X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-16213e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
-
-<br/><br/>
-
 <hr/>
 
 <div align="center">
