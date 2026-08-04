@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://alphascope.netlify.app/"><img src="https://img.shields.io/badge/AlphaScope-Live_Platform-00C853?style=for-the-badge&logo=netlify&logoColor=white" /></a>>
+<a href="https://alphascope.netlify.app/"><img src="https://img.shields.io/badge/AlphaScope-Live_Platform-00C853?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 <a href="https://stockflow-obza.onrender.com"><img src="https://img.shields.io/badge/StockFlow-Live_Platform-FF6F00?style=for-the-badge&logo=render&logoColor=white" /></a>
 
 <br/><br/>
