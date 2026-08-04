@@ -41,22 +41,6 @@ I am a Full-Stack Software Engineer and AI Architect focused on building highly 
       • Solved retail false-positive noise by building a dual-agent LLM fusion engine that cross-validates independent algorithmic signals before surfacing a trade.<br/>
       • Integrates live NSE telemetry into serverless auto-scaling functions, generating real-time, digestible market briefs dynamically.
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 <a href="https://github.com/Vishwajeet2005/NSE_Trading">NSE Trading System</a></h3>
-      <p align="center"><i>ML-Powered Trading Terminal</i></p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn" />
-      </div>
-      <hr/>
-      <b>Overview:</b> A semi-autonomous backend trading terminal built to withstand high-volatility news events on the NSE.<br/><br/>
-      <b>Architecture & Solutions:</b><br/>
-      • Blended rule-based technical analysis with a robust Random Forest ML model trained on 15 years of historical market data.<br/>
-      • Engineered a live VADER NLP integration that streams real-time news sentiment analysis to dynamically adjust execution thresholds.
-    </td>
     <td width="50%" valign="top">
       <h3 align="center">🤖 <a href="https://github.com/Vishwajeet2005/Claude-Code-Game-Studios">Claude Code Studios</a></h3>
       <p align="center"><i>Multi-Agent Orchestration Engine</i></p>
