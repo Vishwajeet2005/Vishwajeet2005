@@ -6,10 +6,8 @@
 
 <br/>
 
-<a href="https://alphascope.netlify.app/"><img src="https://img.shields.io/badge/AlphaScope-Live_Platform-00C853?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-<a href="https://nse-trading-system-6117.onrender.com"><img src="https://img.shields.io/badge/NSE_Trading-Live_Platform-0078D4?style=for-the-badge&logo=render&logoColor=white" /></a>
+<a href="https://alphascope.netlify.app/"><img src="https://img.shields.io/badge/AlphaScope-Live_Platform-00C853?style=for-the-badge&logo=netlify&logoColor=white" /></a>>
 <a href="https://stockflow-obza.onrender.com"><img src="https://img.shields.io/badge/StockFlow-Live_Platform-FF6F00?style=for-the-badge&logo=render&logoColor=white" /></a>
-<a href="https://Vishwajeet2005.github.io/SentinelX/"><img src="https://img.shields.io/badge/SentinelX-Documentation-8B0000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -29,20 +27,6 @@ I am a Full-Stack Software Engineer and AI Architect focused on building highly 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ <a href="https://github.com/Vishwajeet2005/SentinelX">SentinelX</a></h3>
-      <p align="center"><i>Enterprise Anti-Cheat Infrastructure</i></p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus" />
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go" />
-        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka" />
-      </div>
-      <hr/>
-      <b>Overview:</b> An enterprise-grade anti-cheat telemetry pipeline designed for high-concurrency Unreal Engine and Unity multiplayer titles.<br/><br/>
-      <b>Architecture & Solutions:</b><br/>
-      • Engineered a zero-allocation native C++ SDK featuring a lockless ring buffer, reducing telemetry latency overhead to <code>&lt;0.1ms</code>.<br/>
-      • Implemented HMAC-SHA256 signed payloads to cryptographically secure telemetry data in transit against spoofing.
-    </td>
     <td width="50%" valign="top">
       <h3 align="center">🔮 <a href="https://github.com/Vishwajeet2005/AlphaScope">AlphaScope</a></h3>
       <p align="center"><i>Dual-Signal Intelligence Terminal</i></p>
@@ -95,8 +79,6 @@ I am a Full-Stack Software Engineer and AI Architect focused on building highly 
 
 <h2 align="center">⚙️ Additional Systems & Deployments</h2>
 
-- **[Project Nexus](https://github.com/Vishwajeet2005/Nexus-AI-NPC-backend)**: A massively multiplayer backend platform built in Python/FastAPI, designed to support high concurrency and inject AI-native NPCs seamlessly into live game states. *(In Development)*
-- **[Echoes of Truth](https://github.com/Vishwajeet2005/Echoes-of-Truth)**: An AI interrogation simulation game serving as the proving ground for the Nexus Engine's dynamic psychological pressure logic.
 - **[StockFlow](https://github.com/Vishwajeet2005/StockFlow)**: Enterprise Inventory Management system featuring full-stack architecture, 2FA, JWT rotation, and containerization via Docker. Ships as a native Windows executable.
 - **[Payment Webhook API](https://github.com/Vishwajeet2005/payment-webhook-api)**: Secure Razorpay payment integration built in Spring Boot and PostgreSQL, handling real-time database syncing via cryptographic webhooks.
 - **[CyberShield AI](https://github.com/Vishwajeet2005/CyberShield-AI)**: A live-deployed threat intelligence dashboard providing AI-driven cyber threat prediction.
@@ -125,7 +107,7 @@ I am a Full-Stack Software Engineer and AI Architect focused on building highly 
 
 <div align="center">
 
-**Winner, PS6 (AI for the Indian Investor)** @ ET AI Hackathon 2026<br/>
+** PS6 (AI for the Indian Investor)** @ ET AI Hackathon 2026<br/>
 **Winner, Web/App Category** @ Sunmount Solutions Hackathon
 
 <br/><br/>
