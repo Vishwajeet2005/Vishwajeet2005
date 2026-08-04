@@ -130,7 +130,6 @@ I am a Full-Stack Software Engineer and AI Architect focused on building highly 
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishwajeet2005&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwajeet2005&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=8b949e" height="165"/>
 <br/><br/>
 <img src="https://streak-stats.demolab.com/?user=Vishwajeet2005&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" />
