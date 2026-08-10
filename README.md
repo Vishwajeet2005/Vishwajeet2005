@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Vishwajeet%20Vikram%20Borade&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Architect&descAlignY=60&descColor=8b949e" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=Building+scalable+ecosystems+and+fault-tolerant+infrastructure;Specializing+in+Fintech%2C+Game+Infrastructure%2C+and+AI+Integration;Targeting%3A+YC+Startup+School)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=Building+scalable+ecosystems+and+fault-tolerant+infrastructure;Specializing+in+Fintech%2C+Game+Infrastructure%2C+and+AI+Integration)](https://git.io/typing-svg)
 
 <br/>
 
